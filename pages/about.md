@@ -19,9 +19,4 @@ This is a family collection to share with new and old family members alike. My h
 - preserves memories that might otherwise be forgotten
 - provides visuals for stories told to kids/grandkids and in-laws
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-
-{% include cb/about_the_about.md %} 
